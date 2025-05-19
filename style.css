@@ -1,0 +1,35 @@
+#editor-container {
+  height: calc(100vh);
+}
+
+.sidebar {
+  overflow-y: auto;
+  padding: 10px;
+}
+
+#student-search {
+  font-size: 0.8rem;
+}
+
+#student-list li.uk-active {
+  background-color: #e0e0e0;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.response-label {
+  min-width: 7rem;
+  text-transform: uppercase;
+  font-size: 0.7rem;
+}
+
+.uk-select {
+  font-size: 0.85rem;
+  height: 1.7rem !important; 
+}
+
+.code-font {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1rem;
+  font-weight: bold;
+}
