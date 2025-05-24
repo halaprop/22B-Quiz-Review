@@ -17,6 +17,10 @@
   border-radius: 4px;
 }
 
+#student-identity {
+  min-height: 1.5em;
+}
+
 .response-label {
   min-width: 7rem;
   text-transform: uppercase;
